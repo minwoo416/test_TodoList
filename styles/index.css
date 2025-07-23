@@ -13,8 +13,6 @@
     max-width:300px;
     display:flex;
     justify-content:space-between;
-    
-
 }
 .todolist_container .user_input input {
     color:#000;
@@ -45,7 +43,6 @@
 .todolist_container .list li {
     padding:10px 20px;
     width:100%;
-    /* display:none; */
 }
 .todolist_container .list li label {
     width:100%;

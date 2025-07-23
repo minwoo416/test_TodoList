@@ -3,7 +3,6 @@ const userBtn = document.querySelector('.todolist_container .user_input button')
 const userList = document.querySelector('.todolist_container .list')
 
 console.log(userList)
-    //하나의 li를 복사해두고 버튼 누를때마다 span에 붙여넣고 마지막 자식에 붙여넣기 형식으로 나열하기
 userBtn.addEventListener('click',()=>{
     if(!userInput.value ==''){
         const newItem = document.createElement('li');
