@@ -1,0 +1,7 @@
+@media screen and (max-width:768px){
+    .todolist_container .list li label span { font-size:0.625rem;}
+    .todolist_container .user_input button {
+        padding:5px 20px;
+    }
+    .todolist_container h2 {font-size:1.375rem;}
+}
